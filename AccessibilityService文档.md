@@ -10,6 +10,14 @@
 
 [辅助功能 AccessibilityService笔记 (2)](https://www.jianshu.com/p/ef01ce654302)
 
+[AccessibilityService新增gesturedescription使用详解，7.0模拟手势抢红包核心代码分析](https://blog.csdn.net/qq_24641847/article/details/77683826)
+
+[AccessibilityService之模拟手势自动刷视频](https://blog.csdn.net/suxiaolei0111/article/details/106072248)
+
+[关于AccessibilityService点击无效解决方案](https://juejin.im/post/6844903607586783245)
+
+[Android后台模拟点击探索](https://juejin.im/entry/6844903564679053326)
+
 ### 开源demo
 
 [Bigbang](https://github.com/penglu20/Bigbang)
