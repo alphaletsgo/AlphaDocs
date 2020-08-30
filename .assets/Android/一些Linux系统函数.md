@@ -1,0 +1,1 @@
+[open](https://blog.csdn.net/ArchyLi/article/details/78937937)、[mmap](https://blog.csdn.net/DLUTBruceZhang/article/details/9080173)、[ioctl](https://blog.csdn.net/gemmem/article/details/7268533)、[fork](https://blog.csdn.net/stpeace/article/details/38805369)
