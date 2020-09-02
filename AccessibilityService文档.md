@@ -18,6 +18,12 @@
 
 [Android后台模拟点击探索](https://juejin.im/entry/6844903564679053326)
 
+[AccessibilityService 获取WebView内容](https://blog.csdn.net/u012861467/article/details/81455619)
+
+[Android自动化测试中AccessibilityService获取控件信息（1）](http://blog.csdn.net/itfootball/article/details/21953763)
+
+[Android自动化测试中AccessibilityService获取控件信息（2）-三种方式对比](https://blog.csdn.net/itfootball/article/details/22063185)
+
 ### 开源demo
 
 [Bigbang](https://github.com/penglu20/Bigbang)
